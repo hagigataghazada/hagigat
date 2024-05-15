@@ -17,12 +17,6 @@ body {
     height: 100vh;
     display: grid;
     gap: 20px;
-    /* width: 90%; */
-    /* gap: 50px 70px; */
-    /* margin: auto; */
-    /* padding: auto; */
-    /* padding: 20px; */
-    /* display: flex; */
     grid-template: auto / auto auto auto auto;
 }
 .grid-item {
